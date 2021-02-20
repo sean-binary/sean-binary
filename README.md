@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=sean-binary.sean-binary)
+[![Github](https://img.shields.io/github/followers/sean-binary?label=Follow&style=social)](https://github.com/sean-binary)
 
+### Some Things About Me: 👋
 <!--
-**sean-binary/sean-binary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Currently learning about Typescript & Tailwind
 -->
+- :musical_note: Always listening to lofi or chillhop beats
+- :zap: Fun facts: ESFJ. Speaks English, Malay, Mandarin and Hokkien.
+- :book: Currently reading: A Man by Keiichiro Hirano
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-binary&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sean-binary&show_icons=true&theme=graywhite)
+
